@@ -45,17 +45,33 @@ Existen varios recursos disponibles en la página de [SWAPI]:
 
 2. Usa una gráfica de barras para relacionar cada personaje con el número de películas en las que aparece.
 
+*Premium*
+
+Haz que cada barra tenga un círulo al final, cuyo tamaño viene determinado por el valor de la barra.
+
 ### Planets ###
 
-3. Crea una gráfica en la que se representen, en orden ascendente, los planetas según su diámetro.
+3. Crea una gráfica de líneas en la que se representen, en orden ascendente, los planetas según su diámetro.
+
+*Premium*
+
+Elimina los puntos y líneas y convierte tu gráfica en una gráfica de área únicamente.
 
 ### Species ###
 
-4. Representa en un gráfico circular, el número de personajes que hay por cada especie.
+4. Representa en un gráfico circular, el porcentaje sobre el total del número de personajes que hay por cada especie.
+
+*Premium*
+
+Dale animación
 
 ### Starships ###
 
 5. Agrupa las naves espaciales, según la calificación de hiperimpulsión, representada por la propiedad "hiperdrive_rating". Hazlo en una gráfica con forma de donut.
+
+*Premium*
+
+Dale animación
 
 ![sw3]
 
